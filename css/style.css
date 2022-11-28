@@ -71,6 +71,9 @@ p {
   color: #444444;
   line-height: 26px;
 }
+.profile_details .profile_image_box .profile_image {
+  border-radius: 50%;
+}
 
 .section_div {
   padding: 20px 40px;
