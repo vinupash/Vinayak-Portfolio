@@ -23,6 +23,7 @@ p {
 .section_title {
     font-family: 'Poppins', sans-serif;
     font-size: 24px;
+    margin-bottom: 10px;
 }
 
 .container {
@@ -69,11 +70,12 @@ p {
 
         .user_organizations {
             margin-bottom: 10px;
+            font-size: 16px;
             color: #000000;
         }
 
-        p {
-            font-size: 20;
+        .user_organizations_position {
+            font-size: 16px;
             color: #444444;
             line-height: 26px;
         }
@@ -91,7 +93,7 @@ p {
         li {
             // display: inline;
             padding: 10px 0px !important;
-            font-size: 20;
+            font-size: 16px;
             color: #444444;
         }
     }
